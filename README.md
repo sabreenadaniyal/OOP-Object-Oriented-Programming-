@@ -16,6 +16,7 @@ Understand OOP with real-world examples like **phones**, **cars**, and more.
 | **Encapsulation**  | A phone with private data (PIN, contacts)         |
 | **Inheritance**    | A child inherits features from parents            |
 | **Polymorphism**   | A single remote that works for TV, AC, etc.       |
+| **Abstraction**    | Driving a car without knowing how the engine works|
 
 ## 📌 Topics Covered
 
@@ -31,3 +32,8 @@ An `iPhone` or `Samsung` is an object created from this class.
 
 ### ✅ **Polymorphism**
 *Example:* A `drive()` method works differently for a `Car`, `Bike`, or `Truck`—same method, different behavior.
+
+### ✅ Abstraction
+Example:
+When you drive a car, you use the steering wheel and pedals without knowing how the engine works.
+In programming, abstraction means hiding the complex logic and only exposing what’s necessary to the user.
